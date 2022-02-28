@@ -6,7 +6,7 @@ Website of [Tabelo Labs](https://tabelolabs.github.io).
 
 ## Copyright
 
-Copyright &copy; 2022 [naracanto](https://naracanto.com).
+Copyright &copy; 2022 [naracanto](https://naracanto.github.io). All rights reserved.
 
 
 ## License
