@@ -1,7 +1,7 @@
 
-# tabelolabs.github.io
+# cutelabs.github.io
 
-Website of [Tabelo Labs](https://tabelolabs.github.io).
+Website of [Cute Labs](https://cutelabs.github.io).
 
 
 ## Copyright
