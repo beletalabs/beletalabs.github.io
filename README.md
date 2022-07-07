@@ -1,7 +1,7 @@
 
-# cutelabs.github.io
+# beletalabs.github.io
 
-Website of [Cute Labs](https://cutelabs.github.io).
+Website of [Beleta Labs](https://beletalabs.github.io).
 
 
 ## Copyright
